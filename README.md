@@ -40,7 +40,7 @@ TomorrowWeatherApp/
    ```bash
    git clone https://github.com/Farazahmed90/TomorrowWeatherApp.git
    cd TomorrowWeatherApp
-2. open TomorrowWeatherApp.xcodeproj
+2. open TomorrowWeatherApp.xcodeproj (The latest code is in develop -> checkout on develop if needed)
 3. Build and run the project on a simulator or device.
 
 ## Usage
